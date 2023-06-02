@@ -1,0 +1,23 @@
+form{
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    border-radius: 15px;
+ 
+}
+.head1{
+    color: #f7ba2b;
+}
+
+input{
+    margin-top: 4px;
+}
+.Title{
+    margin-left: 6.5vw;
+    
+}
+
+button{
+    margin-left: 9vw;
+    margin-bottom: 6px;
+}
